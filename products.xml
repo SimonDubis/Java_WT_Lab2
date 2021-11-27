@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<goods>
+    <good>
+        <info type = "kettle">Kettle</info>
+        <name>Braun</name>
+        <price>300</price>
+        <material>Aluminum</material>
+        <voltage>240</voltage>
+    </good>
+    <good>
+        <info type = "phone">Phone</info>
+        <name>Apple</name>
+        <price>320</price>
+        <color>Gold</color>
+    </good>
+    <good>
+        <info type = "kettle">Kettle</info>
+        <name>Tefal</name>
+        <price>290</price>
+        <material>Aluminum</material>
+        <voltage>270</voltage>
+    </good>
+    <good>
+        <info type = "fridge">Fridge</info>
+        <name>Atlant</name>
+        <price>320</price>
+        <color>White</color>
+    </good>
+    <good>
+        <info type = "kettle">Kettle</info>
+        <name>Bosch</name>
+        <price>290</price>
+        <material>Plastic</material>
+        <voltage>220</voltage>
+    </good>
+    <good>
+        <info type = "phone">Phone</info>
+        <name>Samsung</name>
+        <price>300</price>
+        <color>Silver</color>
+    </good>
+</goods>
